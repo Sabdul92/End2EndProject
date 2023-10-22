@@ -1,1 +1,6 @@
-import os
+pandas
+scikit-learn
+numpy
+
+
+-e .
